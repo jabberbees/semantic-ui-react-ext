@@ -58,7 +58,7 @@ class Example extends Component {
 
 Screenshot from included example:
 
-<img src="https://github.com/jabberbees/semantic-ui-react-ext/blob/master/doc/example-screenshot.png" width="1263" height="693"/>
+<img src="https://raw.githubusercontent.com/jabberbees/semantic-ui-react-ext/master/doc/example-screenshot.png" width="1263" height="693"/>
 
 ## License
 
