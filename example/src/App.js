@@ -20,6 +20,7 @@ export default class App extends Component {
               <FormField
                 label='First Name'
                 required
+                autoFocus
               />
               <FormField
                 label='Last Name'
